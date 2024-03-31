@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/manim/eoqc/media/videos/2/1080p60/partial_movie_files/WriteEquation/450974505_4231095620_389594157.mp4'
